@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\Task001.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\Task001.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\Task001.AssemblyInfo.cs
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\Task001.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\bin\Debug\net6.0\Task001.exe
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\bin\Debug\net6.0\Task001.deps.json
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\bin\Debug\net6.0\Task001.runtimeconfig.json
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\bin\Debug\net6.0\Task001.dll
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\bin\Debug\net6.0\ref\Task001.dll
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\bin\Debug\net6.0\Task001.pdb
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\Task001.dll
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\ref\Task001.dll
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\Task001.pdb
+C:\Users\Owner\Desktop\gb практика\C# практика\Практикум202\Task001\obj\Debug\net6.0\Task001.genruntimeconfig.cache
